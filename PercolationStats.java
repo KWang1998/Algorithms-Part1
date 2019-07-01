@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:
+ *  Name:K
  *  Date:
- *  Description:
+ *  Description: Algorithms Part1 Week1
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.StdRandom;
